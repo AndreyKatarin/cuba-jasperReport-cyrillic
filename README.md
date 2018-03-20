@@ -1,2 +1,2 @@
 # cuba-jasperReport-cyrillic
-Example of creation report using JasperReport template and CUBA.Platform YARG engine
+Пример проекта на CUBA.Platform. Отчет JasperReport с кириллицей
